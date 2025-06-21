@@ -80,7 +80,7 @@ A simple and clean calculator built with C# Windows Forms.
 
 ---
 
-![Calculator Screenshot](Cals/blob/master/Cals-App.jpg)
+![Calculator Screenshot](Cals-App.jpg)
 
 ---
 
