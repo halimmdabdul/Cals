@@ -73,6 +73,24 @@ This is a simple calculator application built using **C#** and **Windows Forms**
 
 ---
 
+
+# 🧮 Windows Forms Calculator
+
+A simple and clean calculator built with C# Windows Forms.
+
+---
+
+![Calculator Screenshot](images/calculator-screenshot.png)
+
+---
+
+## 🔽 Download
+
+[![Download Button](https://img.shields.io/badge/Download-Calculator-blue?style=for-the-badge)](https://your-download-link.com/calculator.exe)
+
+> 📌 Replace the image path and link with your actual screenshot and file hosting URL.
+
+
 ## 📜 License
 
 This project is open-source and free to use.
