@@ -86,7 +86,7 @@ A simple and clean calculator built with C# Windows Forms.
 
 ## 🔽 Download
 
-[![Download Button](https://img.shields.io/badge/Download-Calculator-blue?style=for-the-badge)](https://your-download-link.com/calculator.exe)
+[![Download Button](https://img.shields.io/badge/Download-Calculator-blue?style=for-the-badge)](Cals.exe)
 
 > 📌 Replace the image path and link with your actual screenshot and file hosting URL.
 
